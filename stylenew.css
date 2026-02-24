@@ -1,1 +1,7 @@
 This is new style sheet for the first class. It includes some basic styles for the body, headings, and paragraphs.
+more styles can be added as needed.
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 20px;
+}
